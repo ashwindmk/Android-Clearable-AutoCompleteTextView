@@ -1,0 +1,1 @@
+Clearable AutoCompleteTextView is a simple Android project which shows how to create an autocompletetextview with a clear button.
